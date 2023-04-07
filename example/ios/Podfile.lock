@@ -1,11 +1,17 @@
 PODS:
   - Flutter (1.0.0)
+  - IOSV5-TCCore (5.2.2)
   - tccore_plugin (0.0.1):
     - Flutter
+    - IOSV5-TCCore (= 5.2.2)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - tccore_plugin (from `.symlinks/plugins/tccore_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - IOSV5-TCCore
 
 EXTERNAL SOURCES:
   Flutter:
@@ -15,8 +21,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  tccore_plugin: 7191f2636de5f1bc55d4294373ca769a20ca1ddb
+  IOSV5-TCCore: 14602eb7efcbc05ee1cd048a57061512f82f4a13
+  tccore_plugin: dc0c2b42cbeaad59c68612de4b91bcbfd24d53f7
 
-PODFILE CHECKSUM: 663715e941f9adb426e33bf9376914006f9ea95b
+PODFILE CHECKSUM: fb408a289158b00660fcdf4ee69e15b9fae7e08f
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.0
