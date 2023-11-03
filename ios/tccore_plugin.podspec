@@ -4,19 +4,19 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'tccore_plugin'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
 A new Flutter plugin project.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'http://commandersact.com'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'Your Company' => 'mobile@commandersact.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'IOSV5-TCCore', '5.2.5'
+  s.dependency 'IOSV5-TCCore', '5.3.1'
   s.platform = :ios, '11.0'
 
   # Flutter.framework does not contain a i386 slice.
