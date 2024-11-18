@@ -10,6 +10,7 @@ We are using fixed versions for the TCcore in our iOS podspec to prevent unwante
 
 #tccore_plugin | #tcserverside-flutter-plugin | #tcconsent-flutter-plugin |
 --- | --- | --- |
+| 1.3.0 | 1.2.0 | 1.5.0* |
 | 1.2.3 | 1.1.3 | 1.4.3* |
 | 1.2.2 | 1.1.2 | 1.4.2* |
 
