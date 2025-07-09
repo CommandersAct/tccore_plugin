@@ -1,5 +1,5 @@
 group 'com.tagcommander.tccore_plugin'
-version '1.0'
+version '1.3.1'
 
 buildscript {
     repositories {
