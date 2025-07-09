@@ -6,5 +6,5 @@ package com.tagcommander.tccore_plugin;
 
 public class TCCoreFlutterGenerated
 {
-    public static final String version = "1.3.0";
+    public static final String version = "1.3.1";
 }
