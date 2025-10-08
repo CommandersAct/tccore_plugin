@@ -5,4 +5,4 @@
 #import <Foundation/Foundation.h>
 #import "TCCoreFlutterGenerated.h"
 
-NSString *const TCCoreFlutterVersion = @"1.3.2";
+NSString *const TCCoreFlutterVersion = @"1.3.3";

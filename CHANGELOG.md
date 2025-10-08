@@ -1,3 +1,7 @@
+## 1.3.3
+
+* [Android] Binaries dependencies leak fix.
+
 ## 1.3.2
 
 * [Android-iOS] Enhance hits metadata, adding right Http content-type headers. 
