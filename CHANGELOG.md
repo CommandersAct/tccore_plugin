@@ -1,3 +1,7 @@
+## 1.3.4
+
+* [iOS] Pod Dependencies updated.
+
 ## 1.3.3
 
 * [Android] Binaries dependencies leak fix.
