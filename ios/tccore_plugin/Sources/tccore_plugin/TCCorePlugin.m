@@ -1,4 +1,4 @@
-#import "TCCorePlugin.h"
+#import "./include/tccore_plugin/TCCorePlugin.h"
 #import "TCParser.h"
 
 @interface TCCorePlugin ()
