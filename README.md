@@ -6,10 +6,11 @@ This bridge is utilized by other libraries as a dependency, [TCConsent](https://
 
 # versions compatibility : 
 
-We are using fixed versions for the TCcore in our iOS podspec to prevent unwanted auto-upgrades that could cause issues when integrating with other modules. Always use latest available version only.
+We are using a fixed version of the iOS SDK (`iOSV5-spm`) in our `Package.swift` to prevent unwanted auto-upgrades that could cause issues when integrating with other modules. Always use latest available version only.
 
 #tccore_plugin | #tcserverside-flutter-plugin | #tcconsent-flutter-plugin |
 --- | --- | --- |
+| 1.4.0 | 1.3.0 | 1.6.0* |
 | 1.3.0 | 1.2.0 | 1.5.0* |
 | 1.2.3 | 1.1.3 | 1.4.3* |
 | 1.2.2 | 1.1.2 | 1.4.2* |
